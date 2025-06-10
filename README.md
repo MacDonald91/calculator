@@ -1,3 +1,5 @@
+Website Link - https://macdonald91.github.io/calculator/
+
 # Advanced Web Calculator 
 
 This project is a more advanced web calculator integrated into a martial arts dojo website template. It includes features for basic arithmetic operations, square, percentage, plus/minus, decimal input control, and basic error handling (division by zero). It also maintains a simple history of operations.
